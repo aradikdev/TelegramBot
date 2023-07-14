@@ -13,7 +13,7 @@ namespace DevSpaceConsole
 {
     public class Program
     {
-        private static string _token { get; set; } = "6213536541:AAHPDtBfd9Aa17H4mQt5PL0QpvJl3dBkeBo";
+        private static string _token { get; set; } = "HASH_CODE_FROM_TELEGRAM";
         private static TelegramBotClient _client;
         private static Timer _timer;
         public static void Main()
